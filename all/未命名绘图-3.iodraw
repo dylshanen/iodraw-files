@@ -360,6 +360,113 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-113" value="进入拍照页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="3740" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-114" value="创建 Photos 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="297" y="3838" width="181" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-115" value="初始化 SurfaceView" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="287" y="3937" width="202" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-116" value="启动摄像头预览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="302" y="4035" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-117" value="用户操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="182" y="4134" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-118" value="获取图片数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="79" y="4318" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-119" value="后台保存 JPG 文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="4417" width="195" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-120" value="写入 EXIF 方向" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="75" y="4515" width="164" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-121" value="刷新照片列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="79" y="4614" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-122" value="恢复预览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="95" y="4712" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-123" value="切换镜头并重启预览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="286" y="4318" width="204" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-124" value="释放摄像头资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="4318" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-113" target="dZ_RMD929I9CRR9Y17yL-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-126" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-114" target="dZ_RMD929I9CRR9Y17yL-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-115" target="dZ_RMD929I9CRR9Y17yL-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-116" target="dZ_RMD929I9CRR9Y17yL-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="238" y="4109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-129" value="拍照" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-117" target="dZ_RMD929I9CRR9Y17yL-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="157" y="4282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-130" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-118" target="dZ_RMD929I9CRR9Y17yL-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-131" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-119" target="dZ_RMD929I9CRR9Y17yL-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-132" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-120" target="dZ_RMD929I9CRR9Y17yL-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-121" target="dZ_RMD929I9CRR9Y17yL-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-134" value="切换摄像头" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.35;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-117" target="dZ_RMD929I9CRR9Y17yL-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="313" y="4282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-135" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.01;entryX=0.78;entryY=1.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-123" target="dZ_RMD929I9CRR9Y17yL-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="488" y="4282" />
+              <mxPoint x="488" y="4109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-136" value="返回" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-117" target="dZ_RMD929I9CRR9Y17yL-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="4282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
