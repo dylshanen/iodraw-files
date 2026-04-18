@@ -161,6 +161,154 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-30" value="MainActivity 主界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="415" y="630" width="202" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-31" value="DeviceCheckActivity 设备检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="728" width="206" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-32" value="AudioActivity 录音" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="296" y="737" width="193" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-33" value="CameraActivity 拍照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="766" y="737" width="206" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-34" value="VideoActivity 录像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="737" width="193" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-35" value="PlaybackActivity 回放" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="239" y="969" width="216" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-36" value="GlobalUploadManager 全局上传管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="844" width="217" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-37" value="ImageFileServer 自动上传线程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="906" y="960" width="176" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-38" value="sever.py Flask 上传服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1076" width="229" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-39" value="Recordings 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="306" y="853" width="174" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-40" value="Photos 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="797" y="853" width="145" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-41" value="Videos 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1047" y="853" width="145" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="123" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="869" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1119" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="261" y="703" />
+              <mxPoint x="261" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="639" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.29;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-36" target="dZ_RMD929I9CRR9Y17yL-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="639" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-37" target="dZ_RMD929I9CRR9Y17yL-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-32" target="dZ_RMD929I9CRR9Y17yL-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-33" target="dZ_RMD929I9CRR9Y17yL-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-34" target="dZ_RMD929I9CRR9Y17yL-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.59;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-39" target="dZ_RMD929I9CRR9Y17yL-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-40" target="dZ_RMD929I9CRR9Y17yL-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.85;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-41" target="dZ_RMD929I9CRR9Y17yL-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="526" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-39" target="dZ_RMD929I9CRR9Y17yL-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.1;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-40" target="dZ_RMD929I9CRR9Y17yL-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="869" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.9;entryY=0.01;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-41" target="dZ_RMD929I9CRR9Y17yL-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1119" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
