@@ -55,13 +55,6 @@
         <mxCell id="dZ_RMD929I9CRR9Y17yL-41" value="Videos 目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1047" y="853" width="145" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="dZ_RMD929I9CRR9Y17yL-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="393" y="703" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dZ_RMD929I9CRR9Y17yL-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -159,6 +152,9 @@
               <mxPoint x="1119" y="935" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ_RMD929I9CRR9Y17yL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.142;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dZ_RMD929I9CRR9Y17yL-30" target="dZ_RMD929I9CRR9Y17yL-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
